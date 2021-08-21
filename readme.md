@@ -58,6 +58,8 @@ A continuación podrás ver el listado de Story Points. Estos te ayudarán rápi
 
 Podrás escoger diferentes requerimientos del listado del backlog. Deberás sumar una mínima cantidad de 128 Story Points. Llegarás a este valor completando la totalidad de los requerimientos mínimos. Anímate también a completar los requerimientos adicionales. ¡Cuantos más sumes, mejor!
 
+![story points](https://s3.amazonaws.com/platform-resources.acamica.com/slides/Im%C3%A1genes+en+Toolboxes/DS+(4+Sprints)/ds_sprintproject3_a_actualizado.png)
+
 ### Exit Criteria
 
 ¡Ya casi estamos! Ahora necesitamos de tu ayuda para organizar el trabajo de retroalimentación. Vamos a usar criterios de aceptación para que puedas comprender el feedback de tu Tech Reviewer. Estos criterios son ejemplos concretos reales de uso del sistema para que puedas probar el funcionamiento de tu producto. De esta forma, lograremos que la evaluación sea más estandarizada y transparente. Para cada historia de usuario listada anteriormente, se asignan criterios de aceptación. Te contamos aquí los criterios técnicos que se toman para llegar a cada requerimiento.
