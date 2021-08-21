@@ -90,7 +90,7 @@ Podrás escoger diferentes requerimientos del listado del backlog. Deberás suma
 - Debes explicar qué te gustaría probar, por qué y cómo lo harías. Si tienes referencias (por ejemplo, un artículo que hayas encontrado, capítulo de libro, etc.) debes mencionarlas.
 - Debes comentar también qué resultados esperas encontrar. Por ejemplo, puedes implementar una prueba rápida y mostrar resultados preliminares, para ver si estás correctamente orientado.
 
-![nerd](https://s3.amazonaws.com/platform-resources.acamica.com/slides/Im%C3%A1genes+en+Toolboxes/DS+(4+Sprints)/ds_sprintproject3_b.gif){style="width:200px;"}
+![nerd|384x288](https://s3.amazonaws.com/platform-resources.acamica.com/slides/Im%C3%A1genes+en+Toolboxes/DS+(4+Sprints)/ds_sprintproject3_b.gif)
 
 Ahora sí, ¡hora del delivery! Recuerda que puedes entregar hasta tres veces. Iterar es la forma de mejorar y aprender durante el camino. Recibirás el feedback del tech reviewer en un lapso de no más de 7 días desde el momento de la entrega.
 
