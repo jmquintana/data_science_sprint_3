@@ -1,6 +1,6 @@
 ## Aplicaciones Actuales (4 sprints)
 
-#####¡Aplica Procesamiento del Lenguaje Natural, Sistemas de Recomendación, Series de Tiempo y Análisis de Imágenes para resolver problemas de relevancia contemporánea!
+##### ¡Aplica Procesamiento del Lenguaje Natural, Sistemas de Recomendación, Series de Tiempo y Análisis de Imágenes para resolver problemas de relevancia contemporánea!
 ***
 
 ### Propósito y Scope
