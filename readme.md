@@ -1,13 +1,16 @@
 ## Aplicaciones Actuales (4 sprints)
 
-¡Aplica Procesamiento del Lenguaje Natural, Sistemas de Recomendación, Series de Tiempo y Análisis de Imágenes para resolver problemas de relevancia contemporánea!
--------------------------------------------------------------------------
+#####¡Aplica Procesamiento del Lenguaje Natural, Sistemas de Recomendación, Series de Tiempo y Análisis de Imágenes para resolver problemas de relevancia contemporánea!
+***
+
 ### Propósito y Scope
+
 Te encuentras trabajando en el área de Data Science de Globant, una software factory multinacional. Se abrió una competencia para empleados y tú te apuntas ¡es tu oportunidad de destacarte!
 
 En esta competencia tendrás que elegir entre 3 opciones de desarrollo. Te recomendamos que te apoyes en las Toolboxes, los notebooks trabajados y las presentaciones vistas en clase para resolver el proyecto. También será de mucha utilidad la documentación de las librerías de Python. No dudes en consultar comunidades online como Stack Overflow y, por supuesto, buscar en la web (googlear).
 
 ### Competencia Globant
+
 ¡Bienvenidos/as Globers! Nos alegramos que se hayan anotado a competir. En esta oportunidad vamos a trabajar Procesamiento del Lenguaje Natural, Sistemas de Recomendación y Series de Tiempo para resolver problemas de relevancia contemporánea.
 
 #### Instrucciones
